@@ -299,7 +299,7 @@
           "ambient": "mob.wanderingtrader.idle",
           "hurt": "mob.villager.hit",
           "death": "mob.villager.death",
-          "ambient.in.water": "mob.villager.idle",
+          "ambient.in.water": "mob.wanderingtrader.idle",
           "hurt.in.water": "mob.wanderingtrader.hurt",
           "death.in.water": "mob.villager.death",
           "mad": {
