@@ -303,7 +303,7 @@
           "hurt.in.water": "mob.wanderingtrader.hurt",
           "death.in.water": "mob.wanderingtrader.death",
           "mad": {
-            "sound": "mob.villager.hit",
+            "sound": "mob.wanderingtrader.hurt",
             "volume": 1.1,
             "pitch": [ 2.5, 3 ]
           },
