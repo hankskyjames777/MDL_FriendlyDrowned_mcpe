@@ -296,11 +296,11 @@
         "volume": 1.0,
         "pitch": [ 1.8, 2, 2.2],
         "events": {
-          "ambient": "mob.villager.idle",
+          "ambient": "mob.wanderingtrader.idle",
           "hurt": "mob.villager.hit",
           "death": "mob.villager.death",
           "ambient.in.water": "mob.villager.idle",
-          "hurt.in.water": "mob.villager.hit",
+          "hurt.in.water": "mob.wanderingtrader.hurt",
           "death.in.water": "mob.villager.death",
           "mad": {
             "sound": "mob.villager.hit",
