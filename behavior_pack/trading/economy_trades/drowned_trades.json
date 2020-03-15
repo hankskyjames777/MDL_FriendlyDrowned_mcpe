@@ -1,0 +1,397 @@
+{
+    "tiers": [
+        {
+            "groups": [
+                {
+                    "num_to_select": 1,
+                    "trades": [
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 1,
+                            "wants": [
+                                {
+                                    "item": "minecraft:trident",
+                                    "price_multiplier": 0,
+                                    "quantity": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "num_to_select": 4,
+                    "trades": [
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:trident",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 5,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 5
+                                }
+                            ]
+                        },
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:nautilus_shell",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 10,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 3
+                                }
+                            ]
+                        },
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:fishing_rod",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 50,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 2
+                                }
+                            ]
+                        },
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond_sword",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 100,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 6
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "total_exp_required": 0
+        },
+        {
+            "groups": [
+                {
+                    "num_to_select": 1,
+                    "trades": [
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 125,
+                            "wants": [
+                                {
+                                    "item": "minecraft:gold_ingot",
+                                    "price_multiplier": 0,
+                                    "quantity": 4
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "num_to_select": 3,
+                    "trades": [
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:bell",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 150,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 20
+                                }
+                            ]
+                        },
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:chainmail_boots",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 175,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 1
+                                }
+                            ]
+                        },
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:chainmail_leggings",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 200,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "total_exp_required": 5
+        },
+        {
+            "groups": [
+                {
+                    "num_to_select": 1,
+                    "trades": [
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 220,
+                            "wants": [
+                                {
+                                    "item": "minecraft:bucket:10",
+                                    "quantity": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "num_to_select": 3,
+                    "trades": [
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:chainmail_helmet",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 240,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 1
+                                }
+                            ]
+                        },
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:chainmail_chestplate",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 260,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 4
+                                }
+                            ]
+                        },
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:shield",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 280,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 5
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "total_exp_required": 15
+        },
+        {
+            "groups": [
+                {
+                    "num_to_select": 1,
+                    "trades": [
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 300,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "num_to_select": 2,
+                    "trades": [
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond_leggings",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 300,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 14
+                                }
+                            ]
+                        },
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond_boots",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 300,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 8
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "total_exp_required": 30
+        },
+        {
+            "groups": [
+                {
+                    "num_to_select": 2,
+                    "trades": [
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond_helmet",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 300,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 8
+                                }
+                            ]
+                        },
+                        {
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond_chestplate",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 255,
+                            "reward_exp": true,
+                            "trader_exp": 3000,
+                            "wants": [
+                                {
+                                    "item": "minecraft:diamond",
+                                    "price_multiplier": 0,
+                                    "quantity": 16
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "total_exp_required": 60
+        }
+    ]
+}
