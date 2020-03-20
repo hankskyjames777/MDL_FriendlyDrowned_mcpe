@@ -1,5 +1,5 @@
 {
-  "format_version": "1.8.0",
+  "format_version": "1.16.0",
   "minecraft:entity": {
     "description": {
       "identifier": "minecraft:drowned",
@@ -145,6 +145,16 @@
         }
       },
       "minecraft:hunter_mode": {
+        "minecraft:angry": {
+          "duration": 30,
+          "broadcastAnger": true,
+          "broadcastAngerOnAttack": true,
+          "broadcastAngerOnBeingAttacked": true,
+          "broadcastRange": 40 ,
+          "calm_event": {
+            "event": "minecraft:lost_target",
+            "target": "self"
+          },
         "minecraft:navigation.generic": {
           "is_amphibious": true,
           "can_path_over_water": true,
