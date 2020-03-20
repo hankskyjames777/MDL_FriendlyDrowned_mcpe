@@ -5,7 +5,7 @@
       "identifier": "minecraft:drowned",
       "is_spawnable": true,
       "is_summonable": true,
-      "is_experimental": true
+      "is_experimental": false
     },
     "component_groups": {
       "minecraft:baby_drowned": {
@@ -58,6 +58,15 @@
         }
       },
       "minecraft:adult_drowned": {
+        "minecraft:celebrate_hunt": {
+          "celebration_targets": {
+            "all_of": [
+              {
+                "test": "is_family",
+                "value": "monster"
+              }
+            ]
+          }
         "minecraft:behavior.make_love": {
           "priority": 6
         },
@@ -174,6 +183,8 @@
       }
     },
     "components": {
+      "minecraft:hide": {
+      },
       "minecraft:nameable": {},
       "minecraft:healable": {
         "items": [
