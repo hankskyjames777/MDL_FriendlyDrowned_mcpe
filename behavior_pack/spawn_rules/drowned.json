@@ -4,7 +4,7 @@
     "description": {
       "identifier": "minecraft:drowned",
       "population_control": {
-        "values": [
+        "control": [
           "villager",
           "player"
         ]
